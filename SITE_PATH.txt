@@ -1,0 +1,4 @@
+Dripzone Pro Template v2
+Folder: C:\Users\Administrator\Documents\Saas service website\build\Release\websites\le_basmane_le_basma.__building
+Company: Le Basmane
+Template: moroccan-pastilla-larache-physics
